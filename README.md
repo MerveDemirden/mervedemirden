@@ -5,7 +5,9 @@
 
 I'm Merve from Turkey. I am interested in statistical data analysis and data science. Therefore, I plan to improve myself in these areas. Learning Python, Javascript and SQL, which will contribute to my development, is also among my plans.
 
-Skills: R / SQL / Orange / Python / Spss / C++
+## Skills
+![icons8-python-30](https://user-images.githubusercontent.com/74743028/165340230-8f2ba6d7-daea-4721-b425-006cbbd50eb3.png)  Python
+R / SQL / Orange / Python / Spss / C++
 
 - 🌱 I’m currently learning Python 
 
