@@ -1,5 +1,12 @@
-### Hi there👋
+### Hi there 👋, Merve Demirden
+![](https://media.giphy.com/media/x9fGhk42x9eQ2GFKF8/giphy.gif)
 
 I'm Merve from Turkey. I am interested in statistical data analysis and data science. Therefore, I plan to improve myself in these areas. Learning Python, Javascript and SQL, which will contribute to my development, is also among my plans.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mervedemirden)](https://github.com/anuraghazra/github-readme-stats)
+Skills: R / SQL / Orange / Python / Spss / C++
+
+- 🌱 I’m currently learning Python 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MerveDemirden)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mervedemirden/)  
+
