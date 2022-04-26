@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/l44Qqz6gO6JiVV3pu/giphy.gif)
+![](https://media.giphy.com/media/cLGu3Icy4OImKOJpai/giphy.gif)
 # Merve Demirden
 I'm Merve from Turkey. I am interested in statistical data analysis and data science. Therefore, I plan to improve myself in these areas. Learning Python, Javascript and SQL, which will contribute to my development, is also among my plans.
 
