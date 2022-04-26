@@ -1,4 +1,4 @@
-![I am GitHub Readme Generator's creator](![I am GitHub Readme Generator's creator](https://media.giphy.com/media/C8uzdnRrT8OsF8OCYH/giphy.gif))
+![](https://media.giphy.com/media/C8uzdnRrT8OsF8OCYH/giphy.gif)
 # Merve Demirden
 I'm Merve from Turkey. I am interested in statistical data analysis and data science. Therefore, I plan to improve myself in these areas. Learning Python, Javascript and SQL, which will contribute to my development, is also among my plans.
 
